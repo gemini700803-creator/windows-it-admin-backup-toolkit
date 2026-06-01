@@ -1,0 +1,7 @@
+{
+  "source": "C:\\Users\\Public\\Documents",
+  "destination": "E:\\Backup",
+  "logFile": "backup.log",
+  "backupMode": "Mirror",
+  "retryCount": 2
+}
