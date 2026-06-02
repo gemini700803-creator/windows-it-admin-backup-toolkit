@@ -22,3 +22,20 @@ This toolkit is designed for small business IT administrators who need a simple 
 - Add email notification
 - Add restore test checklist
 - Add Windows Event Log integration
+
+## Installation
+
+1. Download the repository.
+2. Configure the backup path in config.example.json.
+3. Run install-task.ps1 as Administrator.
+4. Verify backup status using verify-backup.ps1.
+
+## Requirements
+
+- Windows 10 or Windows 11
+- PowerShell 5.1 or later
+- Administrator privileges
+
+## Disclaimer
+
+This project is provided as-is without warranty. Users should test backup and restore procedures before using in production environments.
