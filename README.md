@@ -11,6 +11,7 @@ This project helps small businesses create scheduled local backups, verify backu
 - PowerShell-based automation
 - Simple JSON configuration
 - Designed for MIS and IT admin daily operations
+- Backup report generation
 
 ## Use Case
 
@@ -39,3 +40,11 @@ This toolkit is designed for small business IT administrators who need a simple 
 ## Disclaimer
 
 This project is provided as-is without warranty. Users should test backup and restore procedures before using in production environments.
+
+## Latest Release
+
+### v0.2.0
+
+- Added backup-report.ps1
+- Added backup report generation
+- Reports backup path status and file count
